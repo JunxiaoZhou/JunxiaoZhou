@@ -2,7 +2,7 @@
 
 
 
-![Header](/Users/zhangxinshuai/JunxiaoZhou/github-header-image.png)
+![Header](https://github.com/JunxiaoZhou/JunxiaoZhou/blob/main/github-header-image.png?raw=true)
 
 ## 基本信息
 
@@ -10,7 +10,7 @@
     纳米光子学、等离激元学、超表面、边缘成像、自旋轨道相互作用、非线性光学。
 -   个人陈述
     博士和博后期间，共发表34篇同行评审SCI论文，其中16篇为第一/通讯作者。作为第一/通讯作者的这些论文发表在PNAS, Science Advances, PRL, National Science Review, Optica, AFM, Nano Lett.等国际著名期刊。还参与发表专著一部，谷歌学术引用超过1500次，h-index 达到18。单篇最高引用超过300次，有5篇引用超过100次，包括2篇ESI高被引论文。
--   Dr. Zhou has published more than 33 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. Her publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of her papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. She has filed applications for 2 US invention patents. She has been presented at international conferences multiple times as the invited speaker. Her research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS. 
+-   Dr. Zhou has published more than 33 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. Her publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of her papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. She has filed applications for 2 US invention patents. She has been presented at international conferences multiple times as the invited speaker. Her research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS.
 
 ## 学术成果
 
@@ -32,11 +32,11 @@
 11.   **Junxiao Zhou**, Yachao Liu, Yougang Ke, Hailu Luo† and Shuangchun Wen. Generation of Airy vortex and Airy vector beams based on the modulation of dynamic and geometric phases. **<font color=blue>Optics Letters</font> 40**, 3193 (2015) 
 12.   **Junxiao Zhou,** Junxiang Zhao and Zhaowei Liu†. Metasurfaces for multi-functional edge imaging. **<font color=blue>JPhys Photonics</font>**  (Invited, Published online)
 13.   **Junxiao Zhou** and Zhaowei Liu†. Photonic spin dependent wave shaping with metasurfaces: applications in edge detection.  **<font color=blue>Plasmonic Materials and Metastructures</font>**, Elsevier, 227-243 (2024)
-14.   Fanglin Tian*****, **Junxiao Zhou\*,** Elizabeth Abraham, and Zhaowei Liu†. Tunable dielectric BIC metasurface for high resolution optical filters. **<font color=blue>Journal of Physics D: Applied Physics 56</font>**, 134002 (2023) (Invited paper)
-15.   Fanglin Tian*****, **Junxiao Zhou\***, Qiang Wang, and Zhaowei Liu†. Tunable topological phase transition in telecommunication wavelength. **<font color=blue>Optical Materials Express</font>** **13**, 1571(2023)
-16.   Guanghao Chen*****, **Junxiao Zhou*******, Steven Edward Bopp, Junxiang Zhao and Zhaowei Liu†. Visible and near-infrared dual band switchable metasurface edge imaging. **<font color=blue>Optics Letters</font> 47**, 4040 (2022)
-17.   Guanghao Chen*****, **Junxiao Zhou*******, Li Chen, Fanglin Tian, and Zhaowei Liu†. Infrared Color-Sorting Metasurface. **<font color=blue>ACS Photonics</font>** (2024). (Under review)
-18.   Ching-Fu Chen*****, Fanglin Tian*****, **Junxiao Zhou\***, Jackson C. Wagner, Wei Xiong, Zhaowei Liu†. Giant optical second- and third- order nonlinearity at telecom wavelength. **<font color=blue>Optics Letters</font>** **30**, 6867 (2024) (Under review)
+14.   Fanglin Tian*, **Junxiao Zhou\*,** Elizabeth Abraham, and Zhaowei Liu†. Tunable dielectric BIC metasurface for high resolution optical filters. **<font color=blue>Journal of Physics D: Applied Physics 56</font>**, 134002 (2023) (Invited paper)
+15.   Fanglin Tian*, **Junxiao Zhou\***, Qiang Wang, and Zhaowei Liu†. Tunable topological phase transition in telecommunication wavelength. **<font color=blue>Optical Materials Express</font>** **13**, 1571(2023)
+16.   Guanghao Chen\*, **Junxiao Zhou\***, Steven Edward Bopp, Junxiang Zhao and Zhaowei Liu†. Visible and near-infrared dual band switchable metasurface edge imaging. **<font color=blue>Optics Letters</font> 47**, 4040 (2022)
+17.   Guanghao Chen\*, **Junxiao Zhou\***, Li Chen, Fanglin Tian, and Zhaowei Liu†. Infrared Color-Sorting Metasurface. **<font color=blue>ACS Photonics</font>** (2024). (Under review)
+18.   Ching-Fu Chen\*, Fanglin Tian\*, **Junxiao Zhou\***, Jackson C. Wagner, Wei Xiong, Zhaowei Liu†. Giant optical second- and third- order nonlinearity at telecom wavelength. **<font color=blue>Optics Letters</font>** **30**, 6867 (2024) (Under review)
 19.   Wenhong Yang, **Junxiao Zhou**, Shumin Xiao†, Din-Ping Tsai†, Advanced Manufacturing of Dielectric Meta-devices. **<font color=blue>Photonics Insights</font>**. 2024 (Under review)
 20.   Guanghao Chen, Zachary Burns, **Junxiao Zhou** and Zhaowei Liu†. Inverse design of metasurface based off-axis image relay. **<font color=blue>Optics Express</font>** **47**, 4040 (2024)
 21.   Ming Lei, Junxiang Zhao, **Junxiao Zhou**, Hongki Lee, Qianyi Wu, Guanghao Chen, Zhaowei Liu†. **<font color=blue>Nanoscale</font> 16**, 4703-4709 (2024)
