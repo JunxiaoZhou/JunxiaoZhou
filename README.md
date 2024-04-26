@@ -19,10 +19,10 @@
 ## 学术成果
 
 1.   **Junxiao** **Zhou**, *et a*. Optical edge detection based on high-efficiency dielectric metasurface.<a href="https://www.pnas.org/doi/abs/10.1073/pnas.1820636116" target="_blank"><b>PNAS</b></a>  **116**, 11137 (2019) (ESI Highly cited)
-2.   **Junxiao Zhou**, *et al*. Fourier optical spin splitting microscopy. **<font color=blue>Physical Review Letters</font>** **129**, 020801 (2022) (PRL Editors' Suggestion)
+2.   **Junxiao Zhou**, *et al*. Fourier optical spin splitting microscopy. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.020801" targe="_blank"><b>Physical Review Letters</b></a> **129**, 020801 (2022) (PRL Editors' Suggestion)
 3.   **Junxiao Zhou** *et al*. Metasurface enabled quantum edge detection. <a href="https://www.science.org/doi/full/10.1126/sciadv.abc4385" target="_blank"><b>Science Advances</b></a> **6**, eabc4385 (2020) (Physic.org highlighted)
 4.   **Junxiao Zhou** *et al*. Two-dimensional optical spatial differentiation and high-contrast imaging. <a href="https://academic.oup.com/nsr/article/8/6/nwaa176/5881987" target="_blank"><b>National Science Review</b></a> **8**, nwaa176 (2021) (Reported by AAAS)
-5.   Qianyi Wu, **Junxiao Zhou** *et al.* Single-shot quantitative amplitude and phase imaging based on a pair of all-dielectric metasurfaces. **<font color=blue>Optica</font>** **10**, 619-625 (2023) **(Corresponding author)**
+5.   Qianyi Wu, **Junxiao Zhou** *et al.* Single-shot quantitative amplitude and phase imaging based on a pair of all-dielectric metasurfaces. <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-5-619&id=530741" target="_blank"><b>Optica</b></a> **10**, 619-625 (2023) **(Corresponding author)**
 
 
 
