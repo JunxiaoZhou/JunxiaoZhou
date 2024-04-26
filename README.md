@@ -6,15 +6,15 @@
 
 ## 基本信息
 
--   研究方向 
+### 🎓 研究方向 
 
-    纳米光子学、等离激元学、超表面、边缘成像、自旋轨道相互作用、非线性光学。
+​	纳米光子学、等离激元学、超表面、边缘成像、自旋轨道相互作用、非线性光学。
 
--   个人陈述
+### 👩‍🎓 个人陈述
 
-    博士和博后期间，共发表34篇同行评审SCI论文，其中16篇为第一/通讯作者。作为第一/通讯作者的这些论文发表在PNAS, Science Advances, PRL, National Science Review, Optica, AFM, Nano Lett.等国际著名期刊。还参与发表专著一部，谷歌学术引用超过1500次，h-index 达到18。单篇最高引用超过300次，有5篇引用超过100次，包括2篇ESI高被引论文。
+​	博士和博后期间，共发表34篇同行评审SCI论文，其中16篇为第一/通讯作者。作为第一/通讯作者的这些论文发表在PNAS, Science Advances, PRL, National Science Review, Optica, AFM, Nano Lett.等国际著名期刊。还参与发表专著一部，谷歌学术引用超过1500次，h-index 达到18。单篇最高引用超过300次，有5篇引用超过100次，包括2篇ESI高被引论文。
 
-    Has published more than 34 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. The publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of the papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. Has filed applications for 2 US invention patents. Has been presented at international conferences multiple times as the invited speaker. The research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS.
+​	Has published more than 34 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. The publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of the papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. Has filed applications for 2 US invention patents. Has been presented at international conferences multiple times as the invited speaker. The research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS.
 
 ## 学术成果
 
@@ -59,3 +59,7 @@
 34.   Yongli He, Zhenxing Liu, Yachao Liu, **Junxiao Zhou**, Yougang Ke, Hailu Luo† and Shuangchun Wen. Higher-order laser mode converters with dielectric metasurfaces. **<font color=blue>Optics Letters</font>** **40**, 5506 (2015)
 35.   Yougang Ke, Yachao Liu, Yongli He, **Junxiao Zhou**, Hailu Luo† and Shuangchun Wen. Realization of spin-dependent splitting with arbitrary intensity patterns based on all-dielectric metasurfaces. **<font color=blue>Applied Physics Letters</font>** **107**, 041107 (2015)
 36.   Yachao Liu, Yougang Ke, **Junxiao Zhou**, Hailu Luo† and Shuangchun Wen. Manipulating the spin-dependent splitting by geometric Doppler effect. **<font color=blue>Optics Express</font>** **23**, 16682 (2015)
+
+
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${JunxiaoZhou})
