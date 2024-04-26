@@ -7,14 +7,20 @@
 ## 基本信息
 
 -   研究方向 
+
     纳米光子学、等离激元学、超表面、边缘成像、自旋轨道相互作用、非线性光学。
+
 -   个人陈述
+
     博士和博后期间，共发表34篇同行评审SCI论文，其中16篇为第一/通讯作者。作为第一/通讯作者的这些论文发表在PNAS, Science Advances, PRL, National Science Review, Optica, AFM, Nano Lett.等国际著名期刊。还参与发表专著一部，谷歌学术引用超过1500次，h-index 达到18。单篇最高引用超过300次，有5篇引用超过100次，包括2篇ESI高被引论文。
--   Dr. Zhou has published more than 33 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. Her publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of her papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. She has filed applications for 2 US invention patents. She has been presented at international conferences multiple times as the invited speaker. Her research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS.
+
+    Has published more than 33 peer-reviewed SCI papers, with 16 of them as the first, co-first and corresponding author. Her publications have garnered 1548 citations according to Google Scholar, resulting in an h-index of 18. These papers have been published in well-known journals such as PNAS, Science Advances, PRL and Optica. Notably, 2 of her papers have been acknowledged as highly cited papers by ESI (Web of Science's Top 1% highly cited papers), while one paper has received special recommendation from the editorial committee of PRL. She has filed applications for 2 US invention patents. She has been presented at international conferences multiple times as the invited speaker. Her research achievements have attracted attention from various reputable media outlets, including Physics.org and AAAS.
+
+https://placehold.it/150/ffffff/ff0000?text=hello
 
 ## 学术成果
 
-1.   **Junxiao** **Zhou**, *et al*.  Optical edge detection based on high-efficiency dielectric metasurface. **<font color=blue>PNAS</font>** **116**, 11137 (2019) (ESI Highly cited)
+1.   **Junxiao** **Zhou**, *et a*. Optical edge detection based on high-efficiency dielectric metasurface. **<font color=blue>PNAS</font>** **116**, 11137 (2019) (ESI Highly cited)
 2.   **Junxiao Zhou**, *et al*. Fourier optical spin splitting microscopy. **<font color=blue>Physical Review Letters</font>** **129**, 020801 (2022) (PRL Editors' Suggestion)
 3.   **Junxiao Zhou** *et al*. Metasurface enabled quantum edge detection. **<font color=blue>Science Advances</font>** **6**, eabc4385 (2020) (Physic.org highlighted)
 4.   **Junxiao Zhou** *et al*. Two-dimensional optical spatial differentiation and high-contrast imaging. **<font color=blue>National Science Review</font>** **8**, nwaa176 (2021) (Reported by AAAS)
